@@ -1,2 +1,1 @@
-hello python! hello word!
-
+hello word! hello python!hello myfriend!
